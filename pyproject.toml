@@ -13,6 +13,9 @@ django = "^3.0"
 ipython = "^7.10"
 django-debug-toolbar = "^2.1"
 django-extensions = "^2.2"
+pylint = "^2.4"
+pydocstyle = "^5.0"
+coverage = "^5.0"
 
 [build-system]
 requires = ["poetry>=0.12"]
