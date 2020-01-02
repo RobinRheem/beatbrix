@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "flashbing"
+name = "beatbrix"
 version = "0.0.1"
-description = "A community where everyone can share about electric vehicles and self-driving systems."
+description = "Split vocal and instruments of a song."
 authors = ["RobinRheem <robin.rheem@gmail.com>"]
 license = "MIT"
 
