@@ -1,2 +1,3 @@
-# flashbing
-A community where everyone can share about electric vehicles and self-driving systems.
+# BeatBrix
+A simple tool for splitting up vocal and instrumental parts of a song!
+
